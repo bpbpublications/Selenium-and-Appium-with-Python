@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.0.2 (Python 3.10.7 on darwin)" generated="20230224 12:57:00.800" rpa="false" schemaversion="3">
+<suite id="s1" name="Test1" source="/Users/yogashivamathivanan/PycharmProjects/Frameworks/RobotFrameworkDemo/Tests/test1.robot">
+<test id="s1-t1" name="Validate User is able to login to the application" line="16">
+<kw name="Open Application" library="coreResource" type="SETUP">
+<kw name="Open Browser" library="SeleniumLibrary">
+<arg>browser=chrome</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<msg timestamp="20230224 12:57:00.930" level="INFO">Opening browser 'chrome' to base url 'None'.</msg>
+<status status="PASS" starttime="20230224 12:57:00.930" endtime="20230224 12:57:02.973"/>
+</kw>
+<status status="PASS" starttime="20230224 12:57:00.929" endtime="20230224 12:57:02.974"/>
+</kw>
+<kw name="Given User is able to navigate to the application" library="resource1">
+<kw name="Go To" library="SeleniumLibrary">
+<arg>${url}</arg>
+<doc>Navigates the current browser window to the provided ``url``.</doc>
+<msg timestamp="20230224 12:57:02.976" level="INFO">Opening url 'https://magento.softwaretestingboard.com/customer/account/login'</msg>
+<status status="PASS" starttime="20230224 12:57:02.975" endtime="20230224 12:57:04.741"/>
+</kw>
+<status status="PASS" starttime="20230224 12:57:02.974" endtime="20230224 12:57:04.742"/>
+</kw>
+<kw name="And Enter the valid login credentials and submit" library="resource1">
+<kw name="Input Text" library="SeleniumLibrary">
+<arg>email</arg>
+<arg>${username}</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<msg timestamp="20230224 12:57:04.743" level="INFO">Typing text 'admin12@gmail.com' into text field 'email'.</msg>
+<status status="PASS" starttime="20230224 12:57:04.742" endtime="20230224 12:57:04.892"/>
+</kw>
+<kw name="Input Password" library="SeleniumLibrary">
+<arg>pass</arg>
+<arg>${password}</arg>
+<doc>Types the given password into the text field identified by ``locator``.</doc>
+<msg timestamp="20230224 12:57:04.893" level="INFO">Typing password into text field 'pass'.</msg>
+<msg timestamp="20230224 12:57:04.956" level="INFO">Temporally setting log level to: NONE</msg>
+<msg timestamp="20230224 12:57:05.019" level="INFO">Log level changed from NONE to INFO.</msg>
+<status status="PASS" starttime="20230224 12:57:04.892" endtime="20230224 12:57:05.019"/>
+</kw>
+<kw name="Click Element" library="SeleniumLibrary">
+<arg>xpath://*[@id="send2"]</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<msg timestamp="20230224 12:57:05.020" level="INFO">Clicking element 'xpath://*[@id="send2"]'.</msg>
+<status status="PASS" starttime="20230224 12:57:05.019" endtime="20230224 12:57:06.265"/>
+</kw>
+<status status="PASS" starttime="20230224 12:57:04.742" endtime="20230224 12:57:06.266"/>
+</kw>
+<kw name="Then Validate user is successfully logged into the application" library="resource1">
+<kw name="Sleep" library="BuiltIn">
+<arg>5s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<msg timestamp="20230224 12:57:11.268" level="INFO">Slept 5 seconds</msg>
+<status status="PASS" starttime="20230224 12:57:06.266" endtime="20230224 12:57:11.268"/>
+</kw>
+<kw name="Get Title" library="SeleniumLibrary">
+<var>${pageTitle}</var>
+<doc>Returns the title of the current page.</doc>
+<msg timestamp="20230224 12:57:11.274" level="INFO">${pageTitle} = My Account Magento Commerce - website to practice selenium | demo website for automation testing | selenium practice sites</msg>
+<status status="PASS" starttime="20230224 12:57:11.268" endtime="20230224 12:57:11.274"/>
+</kw>
+<kw name="Log" library="BuiltIn">
+<arg>${pageTitle}</arg>
+<doc>Logs the given message with the given level.</doc>
+<msg timestamp="20230224 12:57:11.274" level="INFO">My Account Magento Commerce - website to practice selenium | demo website for automation testing | selenium practice sites</msg>
+<status status="PASS" starttime="20230224 12:57:11.274" endtime="20230224 12:57:11.274"/>
+</kw>
+<kw name="Should Be Equal" library="BuiltIn">
+<arg>${pageTitle}</arg>
+<arg>My Account Magento Commerce - website to practice selenium | demo website for automation testing | selenium practice sites</arg>
+<doc>Fails if the given objects are unequal.</doc>
+<status status="PASS" starttime="20230224 12:57:11.274" endtime="20230224 12:57:11.275"/>
+</kw>
+<status status="PASS" starttime="20230224 12:57:06.266" endtime="20230224 12:57:11.275"/>
+</kw>
+<kw name="And Get Todays date and time" library="resource1">
+<kw name="Todays Time" library="Python1">
+<var>${dateTime}</var>
+<msg timestamp="20230224 12:57:11.276" level="INFO">${dateTime} = today's date and time is 2023-02-24 12:57:11.275658__ and the sent name is Admin</msg>
+<status status="PASS" starttime="20230224 12:57:11.275" endtime="20230224 12:57:11.276"/>
+</kw>
+<kw name="Log To Console" library="BuiltIn">
+<arg>${dateTime}</arg>
+<doc>Logs the given message to the console.</doc>
+<status status="PASS" starttime="20230224 12:57:11.276" endtime="20230224 12:57:11.276"/>
+</kw>
+<status status="PASS" starttime="20230224 12:57:11.275" endtime="20230224 12:57:11.276"/>
+</kw>
+<kw name="Close Browser" library="SeleniumLibrary" type="TEARDOWN">
+<doc>Closes the current browser.</doc>
+<status status="PASS" starttime="20230224 12:57:11.277" endtime="20230224 12:57:11.398"/>
+</kw>
+<status status="PASS" starttime="20230224 12:57:00.928" endtime="20230224 12:57:11.398"/>
+</test>
+<status status="PASS" starttime="20230224 12:57:00.801" endtime="20230224 12:57:11.399"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Test1">Test1</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

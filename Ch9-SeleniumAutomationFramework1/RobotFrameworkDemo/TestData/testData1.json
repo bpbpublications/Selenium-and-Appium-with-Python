@@ -1,0 +1,11 @@
+{
+    "firstName": "Don",
+    "lastName": "Bosco",
+    "age": 35,
+    "address": {
+        "street": "123 Main St",
+        "city": "Santa Ana",
+        "state": "CA",
+        "zip": "92701"
+    }
+}

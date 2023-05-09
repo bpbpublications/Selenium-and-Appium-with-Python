@@ -1,0 +1,9 @@
+03/07/2023 11:59:55 PM: INFO: ________test_loginPageTitle_________
+03/07/2023 11:59:55 PM: INFO: ________Fixture Setup Successfully created Webdriver instance_________
+03/07/2023 11:59:55 PM: INFO: ________Application URL Successfully retrieved and logged in_________
+03/07/2023 11:59:55 PM: INFO: ________Login Page title Retrieved successfully_________
+03/07/2023 11:59:55 PM: INFO: ________Assertion Passed________
+2023-03-10 22:00:55,911 - __main__ - INFO - This is an informational message
+2023-03-10 22:00:55,912 - __main__ - WARNING - This is a warning message
+2023-03-10 22:00:55,912 - __main__ - ERROR - This is an error message
+2023-03-10 22:00:55,912 - __main__ - CRITICAL - This is a critical message

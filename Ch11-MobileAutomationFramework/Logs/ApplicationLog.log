@@ -1,0 +1,362 @@
+
+26/03/23 04:23:03 PM Sunday - test_valid_contactFormSubmission - INFO : Launching Application
+26/03/23 04:23:03 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 04:24:59 PM Sunday - test_valid_contactFormSubmission - INFO : Launching Application
+26/03/23 04:24:59 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 04:26:45 PM Sunday - test_valid_contactFormSubmission - INFO : Launching Application
+26/03/23 04:26:46 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 04:28:55 PM Sunday - test_valid_contactFormSubmission - INFO : Launching Application
+26/03/23 04:28:56 PM Sunday - __init__ - ERROR : Element is not Located
+26/03/23 04:29:49 PM Sunday - test_valid_contactFormSubmission - INFO : Launching Application
+26/03/23 04:29:50 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 04:34:29 PM Sunday - test_method - INFO : Launching Application
+26/03/23 04:34:30 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 04:38:11 PM Sunday - test_val`id_contactFormSubmission - INFO : Launching Application
+26/03/23 04:38:12 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 04:38:13 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:38:13 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:38:15 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:38:15 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:38:15 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:38:16 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:38:16 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:38:16 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:38:16 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:39:12 PM Sunday - test_valid_contactFormSubmission - INFO : Launching Application
+26/03/23 04:39:13 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 04:39:15 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:39:15 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:39:16 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:39:16 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:39:16 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:39:23 PM Sunday - __init__ - ERROR : Element is not Located to type the text 123 Main St
+26/03/23 04:39:23 PM Sunday - __init__ - ERROR : Element is not Located to type the text 123 Main St
+26/03/23 04:39:23 PM Sunday - __init__ - ERROR : Element is not Located to type the text 123 Main St
+26/03/23 04:39:23 PM Sunday - __init__ - ERROR : Element is not Located to type the text 123 Main St
+26/03/23 04:39:25 PM Sunday - __init__ - ERROR : Element is not Located to type the text 4567890123
+26/03/23 04:39:25 PM Sunday - __init__ - ERROR : Element is not Located to type the text 4567890123
+26/03/23 04:39:25 PM Sunday - __init__ - ERROR : Element is not Located to type the text 4567890123
+26/03/23 04:39:25 PM Sunday - __init__ - ERROR : Element is not Located to type the text 4567890123
+26/03/23 04:39:25 PM Sunday - __init__ - ERROR : Element is not Located to type the text 4567890123
+26/03/23 04:39:25 PM Sunday - __init__ - ERROR : Element is not Located
+26/03/23 04:39:25 PM Sunday - __init__ - ERROR : Element is not Located
+26/03/23 04:39:25 PM Sunday - __init__ - ERROR : Element is not Located
+26/03/23 04:39:25 PM Sunday - __init__ - ERROR : Element is not Located
+26/03/23 04:39:25 PM Sunday - __init__ - ERROR : Element is not Located
+26/03/23 04:39:25 PM Sunday - __init__ - ERROR : Element is not Located
+26/03/23 04:39:44 PM Sunday - test_valid_contactFormSubmission - INFO : Launching Application
+26/03/23 04:39:44 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 04:39:46 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:39:46 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:39:47 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:39:47 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:39:47 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:39:48 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:39:48 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:39:48 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:39:48 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:39:49 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:39:49 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:39:49 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:39:49 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:39:49 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:39:50 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 04:39:50 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 04:39:50 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 04:39:50 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 04:39:50 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 04:39:50 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 04:52:37 PM Sunday - test_valid_contactFormSubmission - INFO : Launching Application
+26/03/23 04:52:37 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 04:52:39 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:52:39 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:52:40 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:52:40 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:52:40 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:52:41 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:52:41 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:52:41 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:52:41 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:52:42 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:52:42 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:52:42 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:52:42 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:52:42 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 04:52:43 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 04:52:43 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 04:52:43 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 04:52:43 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 04:52:43 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 04:52:43 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 05:07:55 PM Sunday - test_loginbutton_displayed - INFO : Launching Application
+26/03/23 05:07:56 PM Sunday - __init__ - INFO : Element is Displayed
+26/03/23 05:47:37 PM Sunday - test_loginbutton_displayed - INFO : Launching Application
+26/03/23 05:47:38 PM Sunday - __init__ - INFO : Element is Displayed
+26/03/23 05:47:45 PM Sunday - test_valid_contactFormSubmission - INFO : Launching Application
+26/03/23 05:47:46 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 05:47:46 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 05:47:48 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:47:48 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:47:48 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:47:49 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:47:49 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:47:49 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:47:49 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:47:50 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:47:50 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:47:50 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:47:50 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:47:50 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:47:51 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:47:51 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:47:51 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:47:51 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:47:51 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:47:51 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:47:52 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 05:47:52 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 05:47:52 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 05:47:52 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 05:47:52 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 05:47:52 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 05:47:52 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 05:50:41 PM Sunday - test_loginbutton_displayed - INFO : Launching Application
+26/03/23 05:50:42 PM Sunday - __init__ - INFO : Element is Displayed
+26/03/23 05:50:51 PM Sunday - test_valid_contactFormSubmission - INFO : Launching Application
+26/03/23 05:50:51 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 05:50:51 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 05:50:53 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:50:53 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:50:53 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:50:54 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:50:54 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:50:54 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:50:54 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:50:56 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:50:56 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:50:56 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:50:56 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:50:56 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:50:57 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:50:57 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:50:57 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:50:57 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:50:57 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:50:57 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 05:50:57 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 05:50:57 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 05:50:57 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 05:50:57 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 05:50:57 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 05:50:57 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 05:50:57 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:00:11 PM Sunday - test_loginbutton_displayed - INFO : Launching Application
+26/03/23 06:00:12 PM Sunday - __init__ - INFO : Element is Displayed
+26/03/23 06:00:20 PM Sunday - test_valid_contactFormSubmission - INFO : Launching Application
+26/03/23 06:00:20 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:00:20 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:00:22 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:00:22 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:00:22 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:00:23 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:00:23 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:00:23 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:00:23 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:00:24 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:00:24 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:00:24 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:00:24 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:00:24 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:00:26 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:00:26 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:00:26 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:00:26 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:00:26 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:00:26 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:00:26 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:00:26 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:00:26 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:00:26 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:00:26 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:00:26 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:00:26 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:02:01 PM Sunday - test_loginbutton_displayed - INFO : Launching Application
+26/03/23 06:02:01 PM Sunday - __init__ - INFO : Element is Displayed
+26/03/23 06:02:08 PM Sunday - test_valid_contactFormSubmission - INFO : Launching Application
+26/03/23 06:02:08 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:02:08 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:02:10 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:10 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:10 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:11 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:11 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:11 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:11 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:12 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:12 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:12 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:12 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:12 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:13 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:13 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:13 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:13 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:13 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:13 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:14 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:02:14 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:02:14 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:02:14 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:02:14 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:02:14 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:02:14 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:02:38 PM Sunday - test_loginbutton_displayed - INFO : Launching Application
+26/03/23 06:02:38 PM Sunday - __init__ - INFO : Element is Displayed
+26/03/23 06:02:44 PM Sunday - test_valid_contactFormSubmission - INFO : Launching Application
+26/03/23 06:02:45 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:02:45 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:02:47 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:47 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:47 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:48 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:48 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:48 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:48 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:49 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:49 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:49 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:49 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:49 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:50 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:50 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:50 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:50 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:50 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:50 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:02:51 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:02:51 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:02:51 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:02:51 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:02:51 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:02:51 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:02:51 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:25:16 PM Sunday - test_loginbutton_displayed - INFO : Launching Application
+26/03/23 06:25:17 PM Sunday - __init__ - INFO : Element is Displayed
+26/03/23 06:25:26 PM Sunday - test_valid_contactFormSubmission - INFO : Launching Application
+26/03/23 06:25:27 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:25:27 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:25:29 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:25:29 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:25:29 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:25:30 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:25:30 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:25:30 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:25:30 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:25:31 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:25:31 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:25:31 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:25:31 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:25:31 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:25:32 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:25:32 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:25:32 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:25:32 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:25:32 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:25:32 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 06:25:32 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:25:32 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:25:32 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:25:32 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:25:32 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:25:32 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 06:25:32 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 07:01:00 PM Sunday - test_loginbutton_displayed - INFO : Launching Application
+26/03/23 07:01:00 PM Sunday - __init__ - INFO : Element is Displayed
+26/03/23 07:01:08 PM Sunday - test_valid_contactFormSubmission - INFO : Launching Application
+26/03/23 07:01:08 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 07:01:08 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 07:01:10 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:01:10 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:01:10 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:01:11 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:01:11 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:01:11 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:01:11 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:01:12 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:01:12 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:01:12 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:01:12 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:01:12 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:01:13 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:01:13 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:01:13 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:01:13 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:01:13 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:01:13 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:01:14 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 07:01:14 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 07:01:14 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 07:01:14 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 07:01:14 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 07:01:14 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 07:01:14 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 07:01:47 PM Sunday - test_loginbutton_displayed - INFO : Launching Application
+26/03/23 07:01:48 PM Sunday - __init__ - INFO : Element is Displayed
+26/03/23 07:01:55 PM Sunday - test_valid_contactFormSubmission - INFO : Launching Application
+26/03/23 07:01:56 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 07:01:56 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 07:01:58 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:01:58 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:01:58 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:01:59 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:01:59 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:01:59 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:01:59 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:02:00 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:02:00 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:02:00 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:02:00 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:02:00 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:02:26 PM Sunday - __init__ - ERROR : Element is not Located to type the text 4567890123
+26/03/23 07:02:26 PM Sunday - __init__ - ERROR : Element is not Located to type the text 4567890123
+26/03/23 07:02:26 PM Sunday - __init__ - ERROR : Element is not Located to type the text 4567890123
+26/03/23 07:02:26 PM Sunday - __init__ - ERROR : Element is not Located to type the text 4567890123
+26/03/23 07:02:26 PM Sunday - __init__ - ERROR : Element is not Located to type the text 4567890123
+26/03/23 07:02:26 PM Sunday - __init__ - ERROR : Element is not Located to type the text 4567890123
+26/03/23 07:02:52 PM Sunday - __init__ - ERROR : Element is not Located
+26/03/23 07:02:52 PM Sunday - __init__ - ERROR : Element is not Located
+26/03/23 07:02:52 PM Sunday - __init__ - ERROR : Element is not Located
+26/03/23 07:02:52 PM Sunday - __init__ - ERROR : Element is not Located
+26/03/23 07:02:52 PM Sunday - __init__ - ERROR : Element is not Located
+26/03/23 07:02:52 PM Sunday - __init__ - ERROR : Element is not Located
+26/03/23 07:02:52 PM Sunday - __init__ - ERROR : Element is not Located
+26/03/23 07:13:49 PM Sunday - test_loginbutton_displayed - INFO : Launching Application
+26/03/23 07:13:50 PM Sunday - __init__ - INFO : Element is Displayed
+26/03/23 07:13:57 PM Sunday - test_valid_contactFormSubmission - INFO : Launching Application
+26/03/23 07:13:57 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 07:13:57 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 07:14:00 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:14:00 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:14:00 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:14:01 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:14:01 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:14:01 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:14:01 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:14:02 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:14:02 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:14:02 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:14:02 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:14:02 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:14:03 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:14:03 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:14:03 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:14:03 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:14:03 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:14:03 PM Sunday - __init__ - INFO : Element is successfully Located and text is typed
+26/03/23 07:14:04 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 07:14:04 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 07:14:04 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 07:14:04 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 07:14:04 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 07:14:04 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
+26/03/23 07:14:04 PM Sunday - __init__ - INFO : Element is successfully Located and Clicked
