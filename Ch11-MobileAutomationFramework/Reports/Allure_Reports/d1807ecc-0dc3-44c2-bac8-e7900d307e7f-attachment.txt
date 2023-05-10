@@ -1,0 +1,2 @@
+[32mINFO    [0m test_loginbutton_displayed:test_applicationLogin.py:15 Launching Application
+[32mINFO    [0m __init__:BasePage.py:47 Element is Displayed

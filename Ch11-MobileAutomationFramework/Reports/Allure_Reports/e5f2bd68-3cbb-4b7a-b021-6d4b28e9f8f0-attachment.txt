@@ -1,0 +1,7 @@
+[32mINFO    [0m test_valid_contactFormSubmission:test_contactForm.py:17 Launching Application
+[32mINFO    [0m __init__:BasePage.py:23 Element is successfully Located and Clicked
+[32mINFO    [0m __init__:BasePage.py:30 Element is successfully Located and text is typed
+[32mINFO    [0m __init__:BasePage.py:30 Element is successfully Located and text is typed
+[32mINFO    [0m __init__:BasePage.py:30 Element is successfully Located and text is typed
+[32mINFO    [0m __init__:BasePage.py:30 Element is successfully Located and text is typed
+[32mINFO    [0m __init__:BasePage.py:23 Element is successfully Located and Clicked

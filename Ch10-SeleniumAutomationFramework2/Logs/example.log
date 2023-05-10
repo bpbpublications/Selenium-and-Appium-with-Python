@@ -1,0 +1,4 @@
+2023-03-10 22:05:32,036 - __main__ - INFO - This is an informational message
+2023-03-10 22:05:32,037 - __main__ - WARNING - This is a warning message
+2023-03-10 22:05:32,037 - __main__ - ERROR - This is an error message
+2023-03-10 22:05:32,037 - __main__ - CRITICAL - This is a critical message

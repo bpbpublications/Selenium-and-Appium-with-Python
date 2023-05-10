@@ -1,0 +1,48 @@
+from selenium import webdriver
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.options import Options
+from selenium import webdriver
+from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
+from selenium import webdriver
+from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
+
+# Define the capabilities for Chrome
+chrome_capabilities = DesiredCapabilities.CHROME
+
+# Define the capabilities for Firefox
+firefox_capabilities = DesiredCapabilities.FIREFOX
+
+# Define the URLs for the Selenium Grid hub and the Chrome and Firefox nodes
+HUB_URL = 'http://localhost:4444/wd/hub'
+CHROME_URL = 'http://chrome:4444/wd/hub'
+FIREFOX_URL = 'http://firefox:4444/wd/hub'
+
+# Create the driver instances for Chrome and Firefox
+chrome_driver = webdriver.Remote(
+    command_executor=CHROME_URL,
+    desired_capabilities=chrome_capabilities
+)
+
+firefox_driver = webdriver.Remote(
+    command_executor=FIREFOX_URL,
+    desired_capabilities=firefox_capabilities
+)
+
+# Use the drivers to perform some actions
+chrome_driver.get('https://www.google.com')
+chrome_driver.find_element(By.XPATH, "//textarea[@title='Search']").send_keys("Selenium")
+chrome_driver.find_element(By.XPATH, "//input[@id='gbqfbb']/preceding-sibling::input").click()
+
+firefox_driver.get('https://www.google.com')
+firefox_driver.find_element(By.XPATH, "//textarea[@title='Search']").send_keys("Selenium")
+firefox_driver.find_element(By.XPATH, "//input[@id='gbqfbb']/preceding-sibling::input").click()
+
+# Quit the drivers
+chrome_driver.quit()
+firefox_driver.quit()
+
+
+
+
